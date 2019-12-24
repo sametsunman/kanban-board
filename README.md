@@ -30,12 +30,12 @@ For Front-end(Vue.Js)
 ### Screenshots
 
 <div align="center">
-  <img width="600" src="/Screenshots/1.png"><br />
+  <img width="600" src="/screenshots/1.png"><br />
   <span>-Kanban Task List-</span><br /><br />
 </div>
 
 <div align="center">
-  <img width="600" src="/Screenshots/2.png"><br />
+  <img width="600" src="/screenshots/2.png"><br />
   <span>-Task Creating Modal-</span><br /><br />
 </div>
 
